@@ -33,4 +33,4 @@ def pizza_party(topping="cheese")
   #{topping}
 
 end
-pizza_party
+pizza_party("peppoeroni")
